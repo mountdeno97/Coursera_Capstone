@@ -1,0 +1,5 @@
+Introduction - Vancouver is consistently named as one of the top worldwide cities for livability, quality of life, scenery, and fresh sea food. Vancouver has a wide choice of restaurants. Having the ocean next door makes it much simpler to open a sea food restaurant. One can only expect that they will find a high number of sea food restaurants in the area. So how can someone find an ideal location for this problem? 
+
+Business Problem - The main objective of this project is to analyze the restaurant chais in the Vancouver area near beaches and look for areas where a successful restaurant business can thrive. The other objective of the project is to pay special attention to sea food restaurants in the city and to avoid placing them too close together as this won’t be very profitable. In abstract, the project aims to analyze the restaurants and the best location for opening a restaurant. 
+
+Data - To complete this project, the following data is required: List of all the beaches, coordinates of the beaches, list of all the restaurants near the beaches using Foursquare API. 
